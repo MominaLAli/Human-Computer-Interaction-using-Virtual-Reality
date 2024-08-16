@@ -17,9 +17,14 @@ This research work is motivated by the gaining popularity of virtal reality in v
 
 ## Useful Resources:
 1- https://github.com/jin-s13/COCO-WholeBody/
+
 2- https://github.com/open-mmlab/mmpose/tree/main/projects/rtmpose
+
 3- https://github.com/Deci-AI/super-gradients/tree/master
+
 4- Paper: "RTMDet: An Empirical Study of Designing Real-Time Object Detectors"
+
 5- Paper: "RTMPose: Real-Time Multi-Person Pose Estimation based on MMPose"
+
 6- Best resources to learn YOLO-NAS Pose->  https://www.linkedin.com/pulse/8-community-created-content-get-started-yolo-nas-pose-deciai-omguc/
 
